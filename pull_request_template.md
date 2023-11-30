@@ -1,0 +1,5 @@
+- Quem requisitou a mudança?
+- Qual razão da mudança?
+- Qual é o retorno esperado da mudança?
+- Quais são os riscos envolvidos?
+- Quem são os responsáveis pela execução e teste das mudanças?
