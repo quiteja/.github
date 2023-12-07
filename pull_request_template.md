@@ -3,3 +3,4 @@
 - Qual é o retorno esperado da mudança?
 - Quais são os riscos envolvidos?
 - Quem são os responsáveis pela execução e teste das mudanças?
+- Qual o card do YouTrack?
