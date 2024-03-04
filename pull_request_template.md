@@ -4,5 +4,5 @@
 - Quais são os riscos envolvidos?
 - Quem são os responsáveis pela execução e teste das mudanças?
 - Houve alteração/adição de alguma variável de ambiente?
-- Caso esta feature seja executada na ECS, as váriaveis de ambiente estão de acordo?
+- Caso esta feature seja executada na ECS, as variáveis de ambiente estão de acordo?
 - Qual o card do YouTrack?
