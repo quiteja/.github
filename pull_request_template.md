@@ -6,3 +6,4 @@
 - Houve alteração/adição de alguma variável de ambiente?
 - Caso esta feature seja executada na ECS, as variáveis de ambiente estão de acordo?
 - Qual o card do YouTrack?
+- A mudança foi testada em homologação?
